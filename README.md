@@ -18,29 +18,3 @@
 
 <br>
 
-## Getting started
-
-### ⚙️ Backend
-Configure no arquivo `index.js` sua senha e login do MongoDB.  
-Clone o projeto em seu computador e em seguida execute:
-```bash
-cd backend
-yarn install
-yarn dev
-```
-
-### 💻 Frontend
-Para iniciar o **Frontend** do React utilize os comandos:
-```bash
-cd frontend
-yarn install
-yarn start
-```
-
-### 📱 Mobile
-Utilize os comandos para utilizar o mobile:
-```bash
-cd mobile
-yarn install
-yarn start
-```
